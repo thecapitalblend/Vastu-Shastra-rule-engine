@@ -1,1 +1,9 @@
-
+{
+  "version": "1.0.0",
+  "rules": [
+    {"id":"VST-NE-001","zone":"North-East","recommendation":"Prefer lighter/open functions; pooja/meditation may be considered.","classification":"traditional-practice"},
+    {"id":"VST-SE-001","zone":"South-East","recommendation":"Kitchen is traditionally associated with the Agni/SE zone.","classification":"traditional-practice"},
+    {"id":"VST-SW-001","zone":"South-West","recommendation":"Master bedroom/heavier functions are commonly considered.","classification":"traditional-practice"},
+    {"id":"VST-NW-001","zone":"North-West","recommendation":"Guest/temporary-use functions may be considered.","classification":"traditional-practice"}
+  ]
+}
