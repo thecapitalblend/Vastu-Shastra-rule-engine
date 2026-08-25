@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse, FileResponse
 from pathlib import Path
-from .models import Project
+from models import Project
 from .vastu import check_project
 from .exporters import export_svg, export_png, export_pdf
 from .dxf_export import export_dxf
